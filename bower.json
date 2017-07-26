@@ -47,6 +47,7 @@
     "iron-flex-layout": "^2.0.0",
     "iron-selector": "^2.0.0",
     "iron-a11y-keys-behavior": "^v2.0.0",
-    "iron-resizable-behavior": "^v2.0.0"
+    "iron-resizable-behavior": "^v2.0.0",
+    "app-storage": "2.0-preview"
   }
 }
